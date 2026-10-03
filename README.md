@@ -19,6 +19,9 @@ We will be using Visual Language Models (VLMs) to design a baby monitoring syste
 Python, OpenCV library, Laptop with CUDA-enabled GPU
 
 # Team Member Responsibilities:
+Eric Tang: README/Report, Research, VLM Pipeline, Model Downloads
+Jan Ralph Lujares: README/Report, Research, CUDA/Colab Setup, Prompt Design
+Paulan Huang: README/Report, Research, Dataset search, Documentation
 
 # Project Timeline:
 
