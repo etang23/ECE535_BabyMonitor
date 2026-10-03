@@ -17,5 +17,5 @@ Python, OpenCV library, Laptop with CUDA-enabled GPU
 # Project Timeline:
 
 # References:
-https://arxiv.org/abs/2306.14895
-https://huggingface.co/docs/transformers/main/en/model_doc/llava
+- https://arxiv.org/abs/2306.14895
+- https://huggingface.co/docs/transformers/main/en/model_doc/llava
