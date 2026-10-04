@@ -14,6 +14,8 @@ We will be using Visual Language Models (VLMs) to design a baby monitoring syste
 5. A code snippet that demonstrates taking an image as input and outputs an activity classification and a short report.
 
 # System Blocks:
+<img width="1262" height="728" alt="Screenshot 2026-10-03 204210" src="https://github.com/user-attachments/assets/1b0ac9b9-c6b5-42e5-a056-a09246f2caae" />
+
 
 # Hardware/Software Requirements:
 Python, OpenCV library, Laptop with CUDA-enabled GPU
@@ -24,6 +26,15 @@ Python, OpenCV library, Laptop with CUDA-enabled GPU
 3. Paulan Huang: README/Report, Research, Dataset search, Documentation/Writing, Software
 
 # Project Timeline:
+Week
+1. Research and requirements
+2. Environment setup
+3. VLM prototype
+4. Activity recognition
+5. Video pipeline
+6. Reporting and alerts
+7. Testing and optimization
+8. Final integration
 
 # References:
 - https://arxiv.org/abs/2306.14895
